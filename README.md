@@ -1,4 +1,4 @@
-### Hey there, I'm Valerie! 👋
+# Hey there, I'm Valerie! 👋 ![](https://komarev.com/ghpvc/?username=vruss14&color=green)
 
 ## About Me
 
@@ -17,5 +17,6 @@
 - 🌮 DinGen (created with HTML, CSS, JavaScript, jQuery, and Tailwind): a JavaScript-based web application that fetches data from multiple public APIs to help users discover new dinner ideas: https://ellisaissa.github.io/DinGen-Web/
 - 💡 README Generator (created with Node.js): a simple application that generates a README template based on user inputs in the command line: https://github.com/vruss14/README-generator
 
+## Stats
 
-
+![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true)
