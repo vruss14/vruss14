@@ -23,5 +23,5 @@
 
 ## Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14)](https://github.com/vruss14/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact)](https://github.com/vruss14/github-readme-stats)
 
