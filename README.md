@@ -20,3 +20,8 @@
 ## Stats
 
 ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true)
+
+## Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14)](https://github.com/vruss14/github-readme-stats)
+
