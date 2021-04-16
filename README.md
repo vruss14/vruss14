@@ -1,4 +1,4 @@
-# Hey there, I'm Valerie! 👋 ![](https://komarev.com/ghpvc/?username=vruss14&color=green)
+# Hey there, I'm Valerie! 👋
 
 ## About Me
 
