@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on refactoring previous projects and learning how to build databases.
-- 🌱 I’m currently learning MySQL and Sequelize.
+- 🔭 I’m currently working on refactoring previous projects and learning how to build applications with functional databases.
+- 🌱 I’m currently learning MongoDB and NoSQL.
 - 👯 I’m looking to collaborate on open-source, JavaScript-based projects.
 - 💬 Ask me about HTML, CSS, and vanilla JavaScript related questions.
 - 📫 How to reach me: Email me at vruss14@gmail.com and connect with me on LinkedIn at: https://www.linkedin.com/in/valerie-russell-732731162/
