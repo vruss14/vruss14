@@ -14,8 +14,8 @@
 - 🔑 My Portfolio (created with HTML/CSS): https://vruss14.github.io/web-development-portfolio/
 
 ## Recent Projects
-- 🌮 DinGen (created with HTML, CSS, JavaScript, jQuery, and Tailwind): a JavaScript-based web application that fetches data from multiple public APIs to help users discover new dinner ideas: https://ellisaissa.github.io/DinGen-Web/
-- 💡 README Generator (created with Node.js): a simple application that generates a README template based on user inputs in the command line: https://github.com/vruss14/README-generator
+- 🐛 Debugged & Deconstructed (created with Handlebars.js, Bootstrap, CSS, JavaScript, Lorem Picsum, Express.js, Node.js, MySQL, and Sequelize): a full-stack application that gives developers the opportunity to share their latest tips/discoveries.
+- 🚀 SpaceE (created with Handlebars.js, CSS, Bootstrap, JavaScript, Node.js, Express.js, MySQL, Sequelize, the Space News API, the Where the ISS at API, the NASA APOD (unofficial API), the SpaceX API, the Google Calendar API, and Moment.js): a full-stack application that helps users learn space through several informational sources.
 
 ## Stats
 
