@@ -2,13 +2,17 @@
 
 ## About Me
 
-- 🔭 I’m currently working on refactoring previous projects and learning how to build applications with functional databases.
-- 🌱 I’m currently learning MongoDB and NoSQL.
+- 🔭 I’m currently working on refactoring previous projects and learning React.
 - 👯 I’m looking to collaborate on open-source, JavaScript-based projects.
 - 💬 Ask me about HTML, CSS, and vanilla JavaScript related questions.
-- 📫 How to reach me: Email me at vruss14@gmail.com and connect with me on LinkedIn at: https://www.linkedin.com/in/valerie-russell-732731162/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Before becoming a web developer, I worked professionally as an editor and proofreader.
+
+## Contact
+
+[![Valerie's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-russell-732731162/)
+
+[![Valerie's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:vruss14@gmail.com)
 
 ## Portfolio
 - 🔑 My Portfolio (created with HTML/CSS): https://vruss14.github.io/web-development-portfolio/
@@ -20,6 +24,9 @@
 ## Stats
 
 ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true)
+
+[![Valerie's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vruss14&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ## Languages
 
