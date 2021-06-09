@@ -12,7 +12,7 @@
 
 [![Valerie's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valerie-russell-732731162/)
 
-[![Valerie's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:vruss14@gmail.com)
+Feel free to contact me at vruss14@gmail.com with any professional inquiries.
 
 ## Portfolio
 - 🔑 My Portfolio (created with HTML/CSS): https://vruss14.github.io/web-development-portfolio/
@@ -32,3 +32,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact)](https://github.com/vruss14/github-readme-stats)
 
+## Acknowledgements
+
+A huge thank you to the following repositories: [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Badges 4 Readme Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile), and [Badges](https://github.com/Naereen/badges) for the stats cards/badges displayed in my profile.
