@@ -23,11 +23,9 @@ Feel free to contact me at vruss14@gmail.com with any professional inquiries.
 
 ## Stats
 
-![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true) [![Valerie's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vruss14&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact)](https://github.com/vruss14/github-readme-stats)
 
-## Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact)](https://github.com/vruss14/github-readme-stats)
+[![Valerie's github streak](https://github-readme-streak-stats.herokuapp.com/?user=vruss14&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Acknowledgements
 
