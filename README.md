@@ -2,11 +2,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working on refactoring previous projects and learning React.
-- 👯 I’m looking to collaborate on open-source, JavaScript-based projects.
-- 💬 Ask me about HTML, CSS, and vanilla JavaScript related questions.
+- 🔭 I’m currently working on refactoring previous projects and building new MERN stack web applications.
+- 👯 I’m looking to collaborate on open-source projects that utilize the MERN stack.
+- 💬 Ask me about debugging code and using JavaScript.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Before becoming a web developer, I worked professionally as an editor and proofreader.
+- ⚡ Fun fact: I love going on bike rides, photography, doing yoga, and playing the guitar!
 
 ## Contact
 
@@ -15,8 +15,8 @@
 Feel free to contact me at vruss14@gmail.com with any professional inquiries.
 
 ## Recent Projects
-- 🐛 Debugged & Deconstructed (created with Handlebars.js, Bootstrap, CSS, JavaScript, Lorem Picsum, Express.js, Node.js, MySQL, and Sequelize): a full-stack application that gives developers the opportunity to share their latest tips/discoveries.
-- 🚀 SpaceE (created with Handlebars.js, CSS, Bootstrap, JavaScript, Node.js, Express.js, MySQL, Sequelize, the Space News API, the Where the ISS at API, the NASA APOD (unofficial API), the SpaceX API, the Google Calendar API, and Moment.js): a full-stack application that helps users learn space through several informational sources.
+- 🟦 WallPro: a full-stack application that simplifies and expedites the process of ordering vinyl installation materials.
+- 🐛 Debugged & Deconstructed: a full-stack application that gives developers the opportunity to share their latest tips/discoveries.
 
 [![Valerie's Portfolio](https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&logo=Portfolio&logoColor=white)](https://vruss14.github.io/web-development-portfolio/)
 
