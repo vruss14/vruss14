@@ -2,7 +2,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on refactoring previous projects and building new MERN stack web applications.
+- 🔭 I’m currently working on building new MERN stack web applications and strengthening my understanding of fundamentals.
+- 📚 I'm currently studying through [OSSU](https://github.com/ossu/computer-science) and [The Odin Project](https://www.theodinproject.com/) to refine my technical skillset.
 - 👯 I’m looking to collaborate on open-source projects that utilize the MERN stack.
 - 💬 Ask me about debugging code and using JavaScript.
 - 😄 Pronouns: she/her
