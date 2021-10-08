@@ -2,12 +2,12 @@
 
 ## About Me
 
-- 🔭 I’m currently working on building new MERN stack web applications and strengthening my understanding of fundamentals.
-- 📚 I'm currently studying through [OSSU](https://github.com/ossu/computer-science) and [The Odin Project](https://www.theodinproject.com/) to refine my technical skillset.
-- 👯 I’m looking to collaborate on open-source projects that utilize the MERN stack.
-- 💬 Ask me about debugging code and using JavaScript.
+- 🔭 I’m currently working on strengthening my understanding of fundamentals, especially creating optimized webpages that utilize HTML, CSS, and JavaScript.
+- 📚 I'm currently studying through [The Odin Project](https://www.theodinproject.com/) to refine my technical skillset.
+- 👯 I’m looking to collaborate on open-source projects! Feel free to reach out.
+- 💬 Ask me about debugging code and understanding what specific errors mean.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love going on bike rides, photography, doing yoga, and playing the guitar!
+- ⚡ Fun fact: Fall is my favorite season, so I am super happy right now!
 
 ## Contact
 
@@ -17,7 +17,8 @@ Feel free to contact me at vruss14@gmail.com with any professional inquiries.
 
 ## Recent Projects
 - 🟦 WallPro: a full-stack application that simplifies and expedites the process of ordering vinyl installation materials.
-- 🐛 Debugged & Deconstructed: a full-stack application that gives developers the opportunity to share their latest tips/discoveries.
+- 🏋️‍♀️ Fitness Calculator: A CLI solution built with Python that can be used to calculate estimated fitness measurements such as your resting heart rate and BMI.
+- ✏️ Sketch Pad: A modern UI that includes a built-in sketch pad. Users can draw in different colors, erase, and reset the canvas.
 
 [![Valerie's Portfolio](https://img.shields.io/badge/Portfolio-6DB33F?style=for-the-badge&logo=Portfolio&logoColor=white)](https://vruss14.github.io/web-development-portfolio/)
 
