@@ -3,11 +3,10 @@
 ## About Me
 
 - 🔭 I’m currently working on strengthening my understanding of fundamentals, especially creating optimized webpages that utilize HTML, CSS, and JavaScript.
-- 📚 I'm currently studying through [The Odin Project](https://www.theodinproject.com/) to refine my technical skillset.
 - 👯 I’m looking to collaborate on open-source projects! Feel free to reach out.
 - 💬 Ask me about debugging code and understanding what specific errors mean.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Fall is my favorite season, so I am super happy right now!
+- ⚡ Fun fact: Fall is my favorite season! 🍂
 
 ## Contact
 
