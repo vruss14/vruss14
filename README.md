@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on strengthening my understanding of fundamentals, especially creating optimized webpages that utilize HTML, CSS, and JavaScript.
+- 🔭 I’m currently working on strengthening my understanding of SASS and React.
 - 👯 I’m looking to collaborate on open-source projects! Feel free to reach out.
 - 💬 Ask me about debugging code and understanding what specific errors mean.
 - 😄 Pronouns: she/her
