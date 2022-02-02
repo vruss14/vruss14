@@ -23,7 +23,7 @@ Feel free to contact me at vruss14@gmail.com with any professional inquiries.
 
 ## Stats
 
-![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact)](https://github.com/vruss14/github-readme-stats)
+![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruss14&count_private=true&hide=stars)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vruss14&layout=compact&langs_count=10)](https://github.com/vruss14/github-readme-stats)
 
 ## Acknowledgements
 
