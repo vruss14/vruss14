@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on understanding how to represent data on websites with the D3.js library.
+- 🔭 I’m currently working on strengthening my understanding of Node.js, Express.js, and APIs.
 - 👯 I’m looking to collaborate on open-source projects! Feel free to reach out.
 - 💬 Ask me about debugging code and understanding what specific errors mean.
 - 😄 Pronouns: she/her
